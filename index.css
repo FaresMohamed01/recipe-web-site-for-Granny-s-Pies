@@ -1,0 +1,23 @@
+/* Name: Fares Mohamed. For this project, we were required to do create two web pages, index.html as a front page and pie.html using the decriptions given by the instructor alongside its own css file, recipe.css. */ 
+/*index.css: The file contains all stylings and appearance of the page, index.html */ 
+body {
+  background-color: yellow;
+  background-repeat: repeat;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-family: Optima;
+}
+
+p {
+  font-family: Cursive;
+}
+
+ul {
+  font-family: Optima;
+}
