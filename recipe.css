@@ -1,59 +1,59 @@
 /* Name: Fares Mohamed. For this project, we were required to do create two web pages, index.html as a front page and pie.html using the decriptions given by the instructor alongside its own css file, recipe.css. */ 
 /*recipe.css: The file contains all stylings and appearance of the page, pie.html. Those stylings are taken from the description listed in the project description file */ 
 h1{
-	color: #A4A400;
-	background-color: #F0F0F0;
-	font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
-	text-align: center;
-	font-size: 22pt;
-	font-style: bold;
-	text-decoration: underline;
-	letter-spacing: 0.25em;
+color: #A4A400;
+background-color: #F0F0F0;
+font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+text-align: center;
+font-size: 22pt;
+font-style: bold;
+text-decoration: underline;
+letter-spacing: 0.25em;
 }
 
 h2, h3{
-	color: #A4A400;
-	background-color: #F0F0F0;
-	font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
-	text-align: left;
-	font-size: 18pt;
-	font-style: normal;
-	text-decoration: underline;
-	letter-spacing: 0.25em;
+color: #A4A400;
+background-color: #F0F0F0;
+font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+text-align: left;
+font-size: 18pt;
+font-style: normal;
+text-decoration: underline;
+letter-spacing: 0.25em;
 }
 
 body {
-	background-color: white;
-	background-image: url("images/silverware.jpg");
-	background-attachment: fixed;
-	background-repeat:repeat;
-	color: #404040;
-	font-size: 11pt;
-	font-family: Georgia, Garamond, sans-serif;
+background-color: white;
+background-image: url("images/silverware.jpg");
+background-attachment: fixed;
+background-repeat:repeat;
+color: #404040;
+font-size: 11pt;
+font-family: Georgia, Garamond, sans-serif;
 }
 
 ul{
-	list-style-image: url("images/pie_bullet.png"); 
+list-style-image: url("images/pie_bullet.png"); 
 }
 
 abbr {
-	text-decoration: underline;
+text-decoration: underline;
 }
 
 span {
-	text-decoration: line-through;
+text-decoration: line-through;
 }
 
 blockquote {
-	background-color: #FFFFA8;
-	font-style: italic;
+background-color: #FFFFA8;
+font-style: italic;
 }
 
 
 a:link{
-	color: #A4A400;
+color: #A4A400;
 } 
 
 a:visited{
-	color: #A4A400;
+color: #A4A400;
 }
